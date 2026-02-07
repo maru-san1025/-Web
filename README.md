@@ -2,8 +2,7 @@
 <html lang="ja">
     <head>
         <meta charaset = "uf-8">
-        <title>11</title>
-        <style>
+           <style>
             #parent{
                 width:300px;
                 height:300px;
